@@ -8,12 +8,6 @@ public class Clase_Prueba {
 		System.out.println("Prueba");
 		
 		
-		
-		
-		
-	
-		
-
-	}
+		}
 
 }
